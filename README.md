@@ -2,7 +2,7 @@ Learning Roadmap
 
 ◆Step1～5：JavaScriptの基礎
 
-[✕] ・Step1: 変数と文字列連結
+[×] ・Step1: 変数と文字列連結
 
 [ ] ・Step2: 条件分岐と関数
 
