@@ -2,6 +2,8 @@
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+![NodeJs](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=nodeJs&logoColor=white)
+
 ◆Step1～5：JavaScriptの基礎
 
 [×] ・[Step1: 変数と文字列連結](./javaScript/Step1_変数と文字列連結/) : 完了
