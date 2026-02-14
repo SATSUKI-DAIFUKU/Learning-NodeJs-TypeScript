@@ -2,17 +2,11 @@ Learning Roadmap
 
 ◆Step1～5：JavaScriptの基礎
 
-[×] ・[Step1: 変数と文字列連結](./javaScript/Step2_条件分岐と関数/Step2_条件分岐と関数.js) : 完了
+[×] ・[Step1: 変数と文字列連結](./javaScript/Step2_条件分岐と関数/) : 完了
 
-  https://github.com/SATSUKI-DAIFUKU/Learning-NodeJs-TypeScript/tree/main/javaScript/Step1_%E5%A4%89%E6%95%B0%E3%81%A8%E6%96%87%E5%AD%97%E5%88%97%E9%80%A3%E7%B5%90
+[×] ・[Step2: 条件分岐と関数](./javaScript/Step2_条件分岐と関数/) : 完了
 
-[×] ・Step2: 条件分岐と関数
-
-https://github.com/SATSUKI-DAIFUKU/Learning-NodeJs-TypeScript/tree/main/javaScript/Step2_%E6%9D%A1%E4%BB%B6%E5%88%86%E5%B2%90%E3%81%A8%E9%96%A2%E6%95%B0
-
-[×] ・Step3: 配列とループ
-
-https://github.com/SATSUKI-DAIFUKU/Learning-NodeJs-TypeScript/tree/main/javaScript/Step3_%E9%85%8D%E5%88%97%E3%81%A8%E3%83%AB%E3%83%BC%E3%83%97
+[×] ・[Step3: 配列とループ](./javaScript/Step3_配列とループ/) : 完了
 
 [ ] ・Step4: オブジェクトとJSON
 
