@@ -12,6 +12,8 @@ https://github.com/SATSUKI-DAIFUKU/Learning-NodeJs-TypeScript/tree/main/javaScri
 
 [×] ・Step3: 配列とループ
 
+https://github.com/SATSUKI-DAIFUKU/Learning-NodeJs-TypeScript/tree/main/javaScript/Step3_%E9%85%8D%E5%88%97%E3%81%A8%E3%83%AB%E3%83%BC%E3%83%97
+
 [ ] ・Step4: オブジェクトとJSON
 
 [ ] ・Step5-1: 基本的な非同期処理
