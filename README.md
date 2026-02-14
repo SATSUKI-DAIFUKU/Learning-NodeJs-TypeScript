@@ -2,7 +2,7 @@ Learning Roadmap
 
 ◆Step1～5：JavaScriptの基礎
 
-[×] ・Step1: 変数と文字列連結 : 完了
+[×] ・Step1: 変数と文字列連結(./javaScript/Step2_条件分岐と関数/Step2_条件分岐と関数.js) : 完了
 
   https://github.com/SATSUKI-DAIFUKU/Learning-NodeJs-TypeScript/tree/main/javaScript/Step1_%E5%A4%89%E6%95%B0%E3%81%A8%E6%96%87%E5%AD%97%E5%88%97%E9%80%A3%E7%B5%90
 
