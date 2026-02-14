@@ -11,11 +11,11 @@
 
 [×] ・[Step3: 配列とループ](./javaScript/Step3_配列とループ/) : 完了
 
-[ ] ・Step4: オブジェクトとJSON
+[×] ・[Step4: オブジェクトとJSON](./javaScript/Step4_オブジェクトとJSON/) : 完了
 
-[ ] ・Step5-1: 基本的な非同期処理
+[×] ・[Step5-1: 基本的な非同期処理](./javaScript/Step5_NodeJsの基礎と非同期処理/) : 完了
 
-[ ] ・Step5-2: 非同期処理深掘り
+[×] ・[Step5-2: 非同期処理深掘り](./javaScript/Step5_NodeJsの基礎と非同期処理/) : 完了
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
