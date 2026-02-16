@@ -5,7 +5,7 @@
 
 ◆Step1～5：JavaScriptの基礎
 
--[] [Step1: 変数と文字列連結](./javaScript/Step1_変数と文字列連結/) : 完了
+- [] [Step1: 変数と文字列連結](./javaScript/Step1_変数と文字列連結/) : 完了
 
 -[] ・[Step2: 条件分岐と関数](./javaScript/Step2_条件分岐と関数/) : 完了
 
