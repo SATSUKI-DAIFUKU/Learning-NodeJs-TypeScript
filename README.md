@@ -42,15 +42,15 @@
 
 ◆Step8：API設計の基礎
 
-🚧 : [Step8-1: JSONを返すAPIを作成する]()
+✅ : [Step8-1: JSONを返すAPIを作成する](./typeScript/Step8_API設計/Step8-1_JSONを返すAPIを作成する.ts)
 
-🚧 : [Step8-2: クライアントからリクエストを作成する]()
+✅ : [Step8-2: クライアントからリクエストを作成する](./typeScript/Step8_API設計/Step8-2_クライアントからリクエストを取得.ts)
 
-🚧 : [Step8-3: Chat型APIの原型を作成]()
+✅ : [Step8-3: Chat型APIの原型を作成](./typeScript/Step8_API設計/Step8-3_Chat型APIの原型を作成.ts)
 
-🚧 : [理解度チェック]()
+✅ : [理解度チェック](./typeScript/Step8_API設計/理解度チェック.ts)
 
-🚧 : [Step8の要点まとめ]()
+✅ : [Step8の要点まとめ](./typeScript/Step8_API設計/Step8の要点まとめ.txt)
 
 ◆Step9：POSTリクエストからBODYを受け取る方法
 
