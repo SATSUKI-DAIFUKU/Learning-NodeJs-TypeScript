@@ -1,0 +1,29 @@
+◆ Step8_API設計の要点
+
+ 1-1.クライアントからのリクエストをJSONに変換して送信する
+
+ 1-2.リクエストに対するレスポンスをJSON形式で返すようにする
+  方法：
+  　・既存処理：server.get("/",(req,res) =>
+               {
+                    res.send("レスポンスを文字列で返します。");
+               });
+    ・JSON   ：server.get("/",(req,res) =>
+               {
+                    res.json(
+                    {
+                        message:"レスポンスをJSON形式で返します。"
+                    });
+               });
+
+ 2.ReactやLLMが機械的に扱える形を理解する
+  良いAPI形式
+   {
+    "key-1":value-1,
+    "keyArray-1":{
+        "arrayKey-1":arrayValue-1,
+        "arrayKey-2":arrayValue-2
+    }
+   }
+
+ 3.チャットボットServerの入り口を作る
