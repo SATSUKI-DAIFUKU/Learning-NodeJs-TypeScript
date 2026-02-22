@@ -54,19 +54,19 @@
 
 ◆Step9：POSTリクエストからBODYを受け取る方法
 
-🚧 : [Step9-1: PostAPIを作成する]()
+✅ : [Step9-1: PostAPIを作成する](./typeScript/Step9_POSTリクエストとBODYを受け取る/Step9-1_PostAPIを作成する.ts)
 
-🚧 : [Step9-2: PostAPIを型安全にする]()
+✅ : [Step9-2: PostAPIを型安全にする](./typeScript/Step9_POSTリクエストとBODYを受け取る/Step9-2_PostAPIを型安全にする.ts)
 
-🚧 : [Step9-3: PostAPIにエラーハンドリングをつける]()
+✅ : [Step9-3: PostAPIにエラーハンドリングをつける](./typeScript/Step9_POSTリクエストとBODYを受け取る/Step9-3_PostAPIにエラーハンドリングをつける.ts)
 
-🚧 : [理解度チェック　]()
+✅ : [理解度チェック　](./typeScript/Step9_POSTリクエストとBODYを受け取る/理解度チェック.ts)
 
 ◆Step10：例外処理と安全な非同期処理
 
-🚧 : [Step10-1: 例外(Error)とは]()
+✅ : [Step10-1: 例外(Error)とは](./typeScript/Step10_例外処理と安全な非同期処理/10-1_例外(Error)とは.txt)
 
-🚧 : [Step10-2: try-catch-finallyの基礎]()
+✅ : [Step10-2: try-catch-finallyの基礎](./typeScript/Step10_例外処理と安全な非同期処理/Step10-2_try-catch-finallyの基礎.ts)
 
 🚧 : [Step10-3: 非同期での例外処理]()
 
