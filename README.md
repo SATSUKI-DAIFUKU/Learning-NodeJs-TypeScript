@@ -68,9 +68,13 @@
 
 ✅ : [Step10-2: try-catch-finallyの基礎](./typeScript/Step10_例外処理と安全な非同期処理/Step10-2_try-catch-finallyの基礎.ts)
 
-🚧 : [Step10-3: 非同期での例外処理]()
+✅ : [Step10-3: 非同期での例外処理](./typeScript/Step10_例外処理と安全な非同期処理/Step10-3_非同期での例外処理.ts)
 
-🚧 : [Step10-4: 例外の発生と処理の責任分離]()
+✅ : [Step10-4: 例外の発生と処理の責任分離(throwする側)](./typeScript/Step10_例外処理と安全な非同期処理/Step10-4_throwする側-受け取る側の責任分離/Step10-4-1_throwする側.ts)
+
+✅ : [Step10-4: 例外の発生と処理の責任分離(受け取る側)](./typeScript/Step10_例外処理と安全な非同期処理/Step10-4_throwする側-受け取る側の責任分離/Step10-4-2_例外を受け取る側.ts)
+
+✅ : [Step10-5: finallyの使いどころ](./typeScript/Step10_例外処理と安全な非同期処理/Step10-5_finallyの使いどころ.ts)
 
 ◆Step11：データ型と型安全の基礎
 
