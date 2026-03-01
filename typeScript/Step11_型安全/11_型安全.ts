@@ -75,3 +75,58 @@ const user:User = {name:"T"};
 const age:number = user.age ?? 20;
 
 console.log(age);
+
+// ◆ 型ガード
+//　・関数の引数や変数の値が特定の型であることを保証する仕組み
+
+// 1. typeof演算子を使用することで変数のデータ型を判定できる
+if(typeof user.name === "string")
+{
+    console.log("user.nameはstring型でした。");
+}
+else
+{
+    console.log("user.nameはstring型ではありませんでした。");
+}
+
+// 2. instanceof演算子を使用すると変数がクラスのインスタンス化を判定できる。
+class Car
+{
+    name:string;
+}
+const car = new Car();
+car.name = "プリウス";
+
+if(car instanceof Car)
+{
+    console.log(car.name);
+}
+
+// ◆ Result型パターン
+//　・関数の実行結果を「成功/失敗」のいずれかを返す設計パターン
+
+// 関数の返り値として使用する定型オブジェクトを定義
+type Result<T> = |{success: true; data: T} | {success: false; error: string};
+
+// 作成した定型オブジェクトを返り値とする関数を作成
+// 引数で渡された変数を数値へ変換する関数
+function parseNumber(value:string):Result<number>
+{
+    // 引数で渡された変数をnumber型へキャスト
+    // キャストへ失敗するとエラーではなくNaNを返す
+    const num = Number(value);
+
+    // キャスト後の値がNaN(キャストの失敗)かを判定
+    if(Number.isNaN(num))
+    {
+        // number型でなければ失敗オブジェクトを返す
+        return {success:false,error:"数値ではありません"};
+    }
+    // numberになっていれば成功オブジェクトを返す。
+    return {success:true,data:num};
+}
+
+// ◆ StructureNullCheckについて
+//　・TypeScriptの型推論において変数の値が未定義(nullやundefined)である状態を非許容とする機能
+//　・ただし変数のデータ型をanyにした場合はnullやundefinedの代入が許容される
+//　・開発環境内のtsconfig.jsonファイル内のstructパラメータがtrueの時に有効(trueがデフォルト)
