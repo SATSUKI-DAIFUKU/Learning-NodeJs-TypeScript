@@ -79,3 +79,7 @@
 ◆Step11：データ型と型安全の基礎
 
 ✅ : [Step11: 型安全](./typeScript/Step11_型安全/11_型安全.ts)
+
+◆Step12：ジェネリックス
+
+🚧 : [Step12: ジェネリクス(Generics)](./typeScript/Step12_ジェネリクス/Step12_Generics.ts)
